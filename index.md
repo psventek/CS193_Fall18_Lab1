@@ -1,3 +1,11 @@
+# Peyton Sventek's First CS193 Lab
+My favorite things about CS193:
+- The class is taught by undergraduate students
+- I have the opportunity to learn more about navigating text editors and the terminal
+- I will learn more about coding as a whole as I am planning on earning a CS minor
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
